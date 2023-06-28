@@ -3,7 +3,7 @@
     "sku": "DEMO001",
     "name": "Exobrace",
     "description": "No more scoliosis",
-    "image": "hhttps://www.medstarhealth.org/-/media/project/mho/medstar/services/spine_1200x628.jpg",
+    "image": "https://www.medstarhealth.org/-/media/project/mho/medstar/services/spine_1200x628.jpg",
     "amount": 10000,
     "currency": "USD"
   },
